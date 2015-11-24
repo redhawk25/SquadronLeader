@@ -2,4 +2,9 @@
 /Intermediate
 /Saved
 /Content/StarterContent/**
+/Content/GTFreeMaterials/**
+/Content/InfinityBladeEffects/**
+/Content/InfinityBladeGrassLands/**
+/Content/InfinityBladeIceLands/**
+/Content/InfinityBladeFireLands/**
 *.uproject
