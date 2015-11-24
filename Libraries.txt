@@ -1,0 +1,8 @@
+**** Librairies à ajouter en local ****
+
+StarterContent
+GTFreeMaterials
+InfinityBladeEffects
+InfinityBladeGrassLands
+InfinityBladeIceLands
+InfinityBladeFireLands
