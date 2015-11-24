@@ -1,5 +1,5 @@
 /Config
 /Intermediate
 /Saved
-/StarterContent
+/Content/StarterContent/**
 *.uproject
